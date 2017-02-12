@@ -14,7 +14,7 @@ In part, it was a learning project for on how to use **Bootstrap css** files to 
 
 1. You will also need to obtain Bootstrap file css from [getbootstrap](http://getbootstrap.com/)
 
-1. I have added an extra bootstrap file on fonts within the repo that enables me to use pre-edited icons and fonts. These can be obtained from [Google Fonts]http://fonts.googleapis.com/css)
+1. I have added an extra bootstrap file on fonts within the repo that enables me to use pre-edited icons and fonts. These can be obtained from [Google Fonts](http://fonts.googleapis.com/css)
 
 
 ### Installing
